@@ -1,0 +1,7 @@
+C:\Users\GQ925VN\source\repos\ReadXML\ReadXML\bin\Debug\ReadXML.exe.config
+C:\Users\GQ925VN\source\repos\ReadXML\ReadXML\bin\Debug\ReadXML.exe
+C:\Users\GQ925VN\source\repos\ReadXML\ReadXML\bin\Debug\ReadXML.pdb
+C:\Users\GQ925VN\source\repos\ReadXML\ReadXML\obj\Debug\ReadXML.csprojAssemblyReference.cache
+C:\Users\GQ925VN\source\repos\ReadXML\ReadXML\obj\Debug\ReadXML.csproj.CoreCompileInputs.cache
+C:\Users\GQ925VN\source\repos\ReadXML\ReadXML\obj\Debug\ReadXML.exe
+C:\Users\GQ925VN\source\repos\ReadXML\ReadXML\obj\Debug\ReadXML.pdb
